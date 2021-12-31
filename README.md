@@ -11,25 +11,5 @@ https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-co
 * Codeigniter 3.1.11
 * Template Admin LTE  Versi 2.4
 
-## Penggunaan Login Akses
-
-<b>Petugas Perpus : </b>
-<br/>
-Username : anang
-<br/>
-Password : 123
-
-<b>Anggota Perpus :</b>
-<br/>
-Username : fauzan
-<br/>
-Password : 123
-
-** Jika ada issues atau revisi atau menambahkan fitur silahkan pull request di repository ini
-
-## Contributors
-<a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
-
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
 
 Gunakan Aplikasi dengan bijak, dan selamat belajar
