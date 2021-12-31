@@ -11,5 +11,7 @@ https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-co
 * Codeigniter 3.1.11
 * Template Admin LTE  Versi 2.4
 
+## Fitur Tambahan
+* REST API
 
 Gunakan Aplikasi dengan bijak, dan selamat belajar
